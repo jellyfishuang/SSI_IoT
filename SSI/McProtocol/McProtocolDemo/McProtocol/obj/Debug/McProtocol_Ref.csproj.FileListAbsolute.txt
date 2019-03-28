@@ -1,0 +1,12 @@
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\McProtocol\bin\Debug\McProtocol.dll
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\McProtocol\bin\Debug\McProtocol.pdb
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol_Ref.csprojAssemblyReference.cache
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol_Ref.csproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol.dll
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol.pdb
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\McProtocol\bin\Debug\McProtocol.dll
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\McProtocol\bin\Debug\McProtocol.pdb
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol_Ref.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol_Ref.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol.dll
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\McProtocol\obj\Debug\McProtocol.pdb

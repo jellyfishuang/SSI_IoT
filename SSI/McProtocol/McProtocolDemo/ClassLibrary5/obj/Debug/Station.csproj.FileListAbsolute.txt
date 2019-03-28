@@ -1,0 +1,12 @@
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\Station.csprojAssemblyReference.cache
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\Station.csproj.CoreCompileInputs.cache
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+D:\Users\USER\Desktop\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\ClassLibrary5\bin\Debug\ClassLibrary5.dll
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\ClassLibrary5\bin\Debug\ClassLibrary5.pdb
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\Station.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\Station.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\ClassLibrary5.dll
+C:\Users\ASUS\Desktop\McProtocol\McProtocol\McProtocolDemo\ClassLibrary5\obj\Debug\ClassLibrary5.pdb
